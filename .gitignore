@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+*.bak
+*.backup
+.vercel/
+.replit-artifact/
+
+tsconfig.tsbuildinfo
